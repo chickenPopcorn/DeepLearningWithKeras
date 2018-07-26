@@ -1,4 +1,4 @@
-name: pydata
+name: base
 channels:
   - damianavila82
   - defaults
@@ -12,3 +12,4 @@ dependencies:
   - pip:
     - keras==2.1.6
     - tensorflow==1.8.0
+    - opencv-python==3.4.2.17

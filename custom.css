@@ -1,9 +1,3 @@
-img[alt*="footer_logo"] {
-  margin-top: 30px !important;
-  width: 350px;
-  float:right;
-}
-
 img[alt~="left"] {
   float:left;
 }
@@ -72,13 +66,13 @@ img[alt~="right_center_quarter"] {
 .rendered_html h5,
 .rendered_html h6
 {
-  font-family: 'Quicksand', sans-serif !important;
+  font-family: 'Helvetica', sans-serif !important;
   margin-top: 30px;
 }
 
 .rendered_html span
 {
-  font-family: 'Quicksand', sans-serif !important;
+  font-family: 'Helvetica', sans-serif !important;
 }
 
 .rendered_html h1
